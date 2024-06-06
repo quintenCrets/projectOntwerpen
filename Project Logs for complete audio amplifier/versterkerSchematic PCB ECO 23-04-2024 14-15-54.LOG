@@ -1,0 +1,64 @@
+Change Physical Footprint: Designator=C1 Old Footprint=capacitor smd New Footprint=capacitor SMD
+Change Physical Footprint: Designator=C2 Old Footprint=capacitor smd New Footprint=capacitor SMD
+Change Physical Footprint: Designator=C3 Old Footprint=capacitor smd New Footprint=capacitor SMD
+Change Physical Footprint: Designator=C4 Old Footprint=capacitor smd New Footprint=capacitor SMD
+Change Physical Footprint: Designator=C5 Old Footprint=capacitor smd New Footprint=capacitor SMD
+Change Physical Footprint: Designator=C6 Old Footprint=capacitor smd New Footprint=capacitor SMD
+Change Physical Footprint: Designator=C7 Old Footprint=capacitor smd New Footprint=capacitor SMD
+Change Physical Footprint: Designator=C8 Old Footprint=capacitor smd New Footprint=capacitor SMD
+Change Physical Footprint: Designator=C9 Old Footprint=capacitor smd New Footprint=capacitor SMD
+Change Physical Footprint: Designator=C10 Old Footprint=capacitor smd New Footprint=capacitor SMD
+Change Physical Footprint: Designator=D1 Old Footprint=diode New Footprint=diode
+Change Physical Footprint: Designator=D2 Old Footprint=diode New Footprint=diode
+Change Physical Footprint: Designator=D3 Old Footprint=diode New Footprint=diode
+Change Physical Footprint: Designator=D4 Old Footprint=diode New Footprint=diode
+Change Physical Footprint: Designator=D5 Old Footprint=diode New Footprint=diode
+Change Physical Footprint: Designator=D6 Old Footprint=diode New Footprint=diode
+Change Physical Footprint: Designator=H1 Old Footprint=header 1x3 New Footprint=header 1x3
+Change Physical Footprint: Designator=H2 Old Footprint=header 1x3 New Footprint=header 1x3
+Change Physical Footprint: Designator=H3 Old Footprint=header 1x2 New Footprint=header 1x2
+Change Physical Footprint: Designator=H4 Old Footprint=header 1x3 New Footprint=header 1x3
+Change Physical Footprint: Designator=H5 Old Footprint=header 1x3 New Footprint=header 1x3
+Change Physical Footprint: Designator=H6 Old Footprint=header 1x3 New Footprint=header 1x3
+Change Physical Footprint: Designator=H7 Old Footprint=header 1x2 New Footprint=header 1x2
+Change Physical Footprint: Designator=H8 Old Footprint=header 1x2 New Footprint=header 1x2
+Change Physical Footprint: Designator=H9 Old Footprint=header 1x2 New Footprint=header 1x2
+Change Physical Footprint: Designator=H10 Old Footprint=header 1x2 New Footprint=header 1x2
+Change Physical Footprint: Designator=Q1 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=Q2 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=Q3 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=Q4 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=Q5 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=Q6 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=Q7 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=Q8 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=Q9 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=Q10 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=Q11 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=Q12 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=Q13 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=Q14 Old Footprint=transistor New Footprint=transistor
+Change Physical Footprint: Designator=R1 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R2 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R3 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R4 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R5 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R6 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R7 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R8 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R9 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R10 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R11 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R12 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R14 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R15 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R16 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R17 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R18 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R19 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R20 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R21 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R22 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R23 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R24 Old Footprint=resistor smd New Footprint=resistor smd
+Change Physical Footprint: Designator=R25 Old Footprint=resistor smd New Footprint=resistor smd

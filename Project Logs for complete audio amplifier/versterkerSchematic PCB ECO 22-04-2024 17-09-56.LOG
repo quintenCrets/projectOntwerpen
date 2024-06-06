@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC2_2 Pin=H4-2
+Removed Pin From Net: NetName=NetC7_2 Pin=H5-2
+Removed Pin From Net: NetName=GND Pin=H11-3
+Removed Member From Class: ClassName=aansluiting Member=H11
+Change Component Footprint: Designator=H4 Old Footprint=header 1x2 New Footprint=header 1x3
+Change Component Footprint: Designator=H5 Old Footprint=header 1x2 New Footprint=header 1x3
+Added Pin To Net: NetName=NetC2_2 Pin=H4-3
+Added Pin To Net: NetName=NetC7_2 Pin=H5-3
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=H4-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=H5-2
+Added Net: Name=NetC6_1
